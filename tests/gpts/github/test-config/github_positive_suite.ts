@@ -89,7 +89,7 @@ export const gitHubBasicGoldenPathTemplateTests = (gptTemplate: string) => {
                     branch: 'main',
                     githubServer: 'github.com',
                     hostType: 'GitHub',
-                    imageName: 'rhtap-qe',
+                    imageName: 'private_repo',
                     imageOrg: quayImageOrg,
                     imageRegistry: 'quay.io',
                     name: repositoryName,

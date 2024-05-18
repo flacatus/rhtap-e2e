@@ -13,7 +13,7 @@ module.exports = {
                     host: 'https://api.github.com',
                     registriesConfig: {
                         quay: {
-                            active: true,
+                            active: false,
                             host: 'quay.io'
                         },
                     },
